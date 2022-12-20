@@ -117,10 +117,10 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          <Image
+          <img
             src="/design-examples.png"
             alt="splashhh design"
-            className={styles.vercelLogo}
+            className={styles.image}
             width={828}
             height={537}
             // fill

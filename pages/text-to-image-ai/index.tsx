@@ -51,10 +51,10 @@ export default function TextToImageAi() {
           </div>
 
           <div className={styles.center}>
-            <Image
+            <img
                 src="/design-text-to-image.png"
                 alt="splashhh design"
-                className={styles.vercelLogo}
+                className={styles.image}
                 width={761}
                 height={887}
                 // fill

@@ -111,6 +111,7 @@
 
 .image {
   position: relative;
+  --secondary-glow: 0;
 }
 
 .thirteen {
