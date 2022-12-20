@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export"
+    "export": "next export -o docs"
   },
   "dependencies": {
     "@next/font": "13.0.7",
